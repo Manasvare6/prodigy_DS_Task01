@@ -8,5 +8,3 @@ plt.xlabel('Age')
 plt.ylabel("Frequency")
 plt.title('Distribution of Ages in a Population')
 plt.show()
-TASK 1&2. Press tab to insert.
-There was a problem playing this video.
